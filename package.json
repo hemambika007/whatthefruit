@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon app.js"
   },
-  "author": "Angothu Rahul Naik",
+  "author": "Hemambika Reddy",
   "license": "IIT",
   "dependencies": {
     "admin-bro": "^2.9.0",
